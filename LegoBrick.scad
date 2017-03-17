@@ -1,6 +1,6 @@
 Lego_size = [8,8,3.2];
 clearance = [0.2,0.2,0];
-Lego_peg = [5,1.7];
+Lego_peg = [4.8,1.8];
 Lego_peg_spacing = 8;
 peg_clearance = 0.1;
 
